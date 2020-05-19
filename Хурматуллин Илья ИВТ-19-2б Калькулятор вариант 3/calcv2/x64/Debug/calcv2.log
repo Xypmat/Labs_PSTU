@@ -1,0 +1,2 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(467,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (calcv2.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  calcv2.vcxproj -> C:\Users\E1ijah_XypMa\Desktop\Хурматуллин Илья\x64\Debug\calcv3.exe

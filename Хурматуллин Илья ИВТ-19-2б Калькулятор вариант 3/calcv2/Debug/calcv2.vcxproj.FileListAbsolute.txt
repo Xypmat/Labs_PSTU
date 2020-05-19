@@ -1,0 +1,12 @@
+C:\Users\Николай\source\repos\calcv2\calcv2\Debug\calcv2.vcxprojAssemblyReference.cache
+C:\Users\Николай\source\repos\calcv2\calcv2\Debug\calcv2.MyForm.resources
+C:\Users\Николай\source\repos\calcv2\calcv2\Debug\calcv2.vcxproj.GenerateResource.cache
+C:\Users\E1ijah_XypMa\Desktop\Аня\calcv2\Debug\calcv2.vcxprojAssemblyReference.cache
+C:\Users\E1ijah_XypMa\Desktop\Аня\calcv2\Debug\calcv2.MyForm.resources
+C:\Users\E1ijah_XypMa\Desktop\Аня\calcv2\Debug\calcv2.vcxproj.GenerateResource.cache
+C:\Users\E1ijah_XypMa\Desktop\Аня1\calcv2\Debug\calcv2.vcxprojAssemblyReference.cache
+C:\Users\E1ijah_XypMa\Desktop\Аня1\calcv2\Debug\calcv2.MyForm.resources
+C:\Users\E1ijah_XypMa\Desktop\Аня1\calcv2\Debug\calcv2.vcxproj.GenerateResource.cache
+C:\Users\E1ijah_XypMa\Desktop\Аня1 — копия\calcv2\Debug\calcv2.vcxprojAssemblyReference.cache
+C:\Users\E1ijah_XypMa\Desktop\Аня1 — копия\calcv2\Debug\calcv2.MyForm.resources
+C:\Users\E1ijah_XypMa\Desktop\Аня1 — копия\calcv2\Debug\calcv2.vcxproj.GenerateResource.cache
