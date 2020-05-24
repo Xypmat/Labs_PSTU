@@ -1,0 +1,24 @@
+﻿  Source.cpp
+C:\Users\E1ijah_XypMa\source\repos\Project6\Project6\graph.h(35,23): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+  graph.cpp
+C:\Users\E1ijah_XypMa\source\repos\Project6\Project6\graph.h(35,23): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\E1ijah_XypMa\source\repos\Project6\Project6\graph.cpp(37,12): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\E1ijah_XypMa\source\repos\Project6\Project6\graph.cpp(119,25): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\E1ijah_XypMa\source\repos\Project6\Project6\graph.cpp(188,31): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\E1ijah_XypMa\source\repos\Project6\Project6\graph.cpp(203,43): warning C4244: аргумент: преобразование "double" в "GLint", возможна потеря данных
+C:\Users\E1ijah_XypMa\source\repos\Project6\Project6\graph.cpp(210,31): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\E1ijah_XypMa\source\repos\Project6\Project6\graph.cpp(225,43): warning C4244: аргумент: преобразование "double" в "GLint", возможна потеря данных
+C:\Users\E1ijah_XypMa\source\repos\Project6\Project6\graph.cpp(232,31): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\E1ijah_XypMa\source\repos\Project6\Project6\graph.cpp(247,43): warning C4244: аргумент: преобразование "double" в "GLint", возможна потеря данных
+C:\Users\E1ijah_XypMa\source\repos\Project6\Project6\graph.cpp(254,31): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\E1ijah_XypMa\source\repos\Project6\Project6\graph.cpp(269,43): warning C4244: аргумент: преобразование "double" в "GLint", возможна потеря данных
+C:\Users\E1ijah_XypMa\source\repos\Project6\Project6\graph.cpp(276,31): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\E1ijah_XypMa\source\repos\Project6\Project6\graph.cpp(291,43): warning C4244: аргумент: преобразование "double" в "GLint", возможна потеря данных
+C:\Users\E1ijah_XypMa\source\repos\Project6\Project6\graph.cpp(298,31): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\E1ijah_XypMa\source\repos\Project6\Project6\graph.cpp(313,43): warning C4244: аргумент: преобразование "double" в "GLint", возможна потеря данных
+C:\Users\E1ijah_XypMa\source\repos\Project6\Project6\graph.cpp(359,27): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\E1ijah_XypMa\source\repos\Project6\Project6\graph.cpp(421,9): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\E1ijah_XypMa\source\repos\Project6\Project6\graph.cpp(422,9): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+  Создание кода...
+  Source.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Project6.vcxproj -> C:\Users\E1ijah_XypMa\source\repos\Project6\x64\Debug\Project6.exe
